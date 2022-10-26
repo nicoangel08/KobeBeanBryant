@@ -1,0 +1,14 @@
+Pandas
+Numpy
+Seaborn
+Torch
+SciPy
+Matplotlib
+Folium
+Pingouin
+Tabulate
+Pycountry-convert
+Geopy
+Plotly
+GeoPandas
+Pandoc
